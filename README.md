@@ -6,7 +6,7 @@ I'm a Backend Developer, passionate for coffee (no sugar, please), i've started 
 <ul>
 <li> 🔨 I'm currently working at <a href="https://cubos.academy">Cubos Academy</a> as an Backend Instructor</li>
 <li> 🚀 I'm currently working on a personal project called 'Fatores Invest'
-<li> 🌱 I'm currently learning Spring</li>
+<li> 🌱 I'm currently learning advanced NestJS</li>
 <li> ☕ I'm interested in other technologies such as Java Spring Boot and Hibernate</li>
 <li> ⚡ Fun fact: I've created an small anti cheater for CS 1.6 <img src="https://media.giphy.com/media/DBExmC2lW7vdm/giphy.gif" width="30" /></li>
 </ul>
