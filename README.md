@@ -4,7 +4,8 @@ I'm a Backend Developer, passionate for coffee (no sugar, please), i've started 
  at 2014 on Android Shell Scripts and Visual Basic, weeks later i've started the development of <a href="https://play.google.com/store/apps/details?id=com.androidvip.hebf&hl=pt_BR&gl=US">HEBF App</a> with <a href="https://github.com/Lennoard">@Lennoard</a>
  
 <ul>
-<li> 🔨 I'm currently working at <a href="https://cubos.academy">Cubos Academy</a> as an Backend Instructor</li>
+<li> 🔨 I'm currently working at <a href="https://cubos.academy">Cubos Academy</a> as a Backend Instructor</li>
+<li> 🐱‍👤 I'm currently working at <a href="https://www.maonaweb.com.br">MãoNaWeb</a> as a FullStack Developer</li>
 <li> 🚀 I'm currently working on a personal project called 'Fatores Invest'
 <li> 🌱 I'm currently learning advanced NestJS</li>
 <li> ☕ I'm interested in other technologies such as Java Spring Boot and Hibernate</li>
