@@ -26,6 +26,8 @@ I'm a Backend Developer, passionate for coffee (no sugar, please), i've started 
 	 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
 	 <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
 	<img alt="nodejs" src=https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white />
+	<img alt="CSharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" />
+	<img alt="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" />
 	<img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 	<img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img alt="php" src=https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white />
