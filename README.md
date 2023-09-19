@@ -15,8 +15,6 @@ I'm a Backend Developer, passionate for coffee (no sugar, please), i've started 
 
 
 ### Contact me:
-[<img align="left" alt="Iv at LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="Iv at Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />][discord]
 [<img align="left" alt="Iv at XDA" width="22px" src="https://icons.veryicon.com/png/128/object/material_design_icons/xda-6.png" />][xda]
 
 <br />
