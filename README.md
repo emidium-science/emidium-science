@@ -7,7 +7,7 @@ I'm a Backend Developer, passionate for coffee (no sugar, please), i've started 
 <li> 👨‍💻 I'm currently working at <a href="https://www.grupodpsp.com.br">Grupo DPSP</a> as a Software Enginner</li>
 <li> 🚀 I'm currently working on a personal project called 'Fatores Invest'
 <li> 🌱 I'm currently learning Kubernetes</li>
-<li> ☕ I'm interested in other technologies such as .NET</li>
+<li> ☕ I'm interested in other technologies such as Mobile and IOT</li>
 <li> ⚡ Fun fact: I've created a small anti cheater for CS 1.6 <img src="https://media.giphy.com/media/DBExmC2lW7vdm/giphy.gif" width="30" /></li>
 <li> ⚡ Fun fact 2: Months later i've created a cheat and become to dark side of force, <a href="https://www.youtube.com/watch?v=3gv-Gho39Us">See the video here 🤣</a></li>
 </ul>
@@ -21,6 +21,8 @@ I'm a Backend Developer, passionate for coffee (no sugar, please), i've started 
 
 ### Languages and Tools:
 <p>
+	<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+	<img alt="Spring" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
 	 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
 	 <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
 	<img alt="nodejs" src=https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white />
