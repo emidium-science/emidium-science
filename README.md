@@ -42,8 +42,6 @@ I'm a Backend Developer, passionate for coffee (no sugar, please), i've started 
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvsonEmidio&langs_count=8&layout=compact&hide=css&exclude_repo=IdeapadHackintosh&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
 [linkedin]: https://www.linkedin.com/in/ivson-emidio-621383215/
 [xda]: https://forum.xda-developers.com/m/ivsomemidio.5968361/
 [discord]: https://discord.gg/dBjcFZG4
