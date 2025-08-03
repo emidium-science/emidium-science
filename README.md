@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="font-family:SF Pro Display,Segoe UI,Arial,sans-serif; color:#222; letter-spacing:-0.03em; font-weight:900;">
-  Ivson Emidio
+  Emidium Science
   <span style="font-size:0.6em; color:#888; font-weight:400;">&nbsp;•&nbsp;"The Machine"</span>
 </h1>
 
